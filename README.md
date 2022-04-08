@@ -16,7 +16,6 @@ Through visual communication design, we reinterpret the article《Artificial int
 
 ### 如果你是蛾；你，會是怎樣的一隻蛾？
 ![image](https://user-images.githubusercontent.com/20485030/162508475-17005806-d6ab-4eaf-95fd-ed7f8ecd49e0.png)
-
 <br/>
 <br/>
 <br/>
@@ -24,7 +23,6 @@ Through visual communication design, we reinterpret the article《Artificial int
 ### 選擇蛾為載體
 台灣有超過400種的蝴蝶，是世界聞名的「蝴蝶王國」；但其實在這座寶島上有著超過5000種的蛾類，數量更是蝴蝶的十多倍，是名符其實的「飛蛾王國」，就如同人類世界般是個豐富多樣的小小世界，因此虫我研所選擇用蛾類為媒介，藉由豐富的蛾類世界來比擬同樣樣貌多元的人類世界，並透過轉譯的方式，將人的行為對應至蛾的生態。
 ![image](https://user-images.githubusercontent.com/20485030/162508634-5b0ac598-8e7f-4d97-8129-dac129a4ed99.png)
-
 <br/>
 <br/>
 <br/>
@@ -32,7 +30,6 @@ Through visual communication design, we reinterpret the article《Artificial int
 ### 設計方法：形態分析法
 虫我研所統計分布在台灣各海拔的蛾類，將其解構成11種顏色、10種花紋、11種燃燒狀態三個部分，利用形態分析矩陣排列組合成1210種蛾類樣態，用以對應至3960種人類行為的起源、互動關係、行為目的之組合。
 ![image](https://user-images.githubusercontent.com/20485030/162508670-8a2a0ec1-ae7d-4df8-b9af-aa86b8224202.png)
-
 <br/>
 <br/>
 <br/>
