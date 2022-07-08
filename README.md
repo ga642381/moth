@@ -5,7 +5,7 @@
 Through visual communication design, we reinterpret the article《Artificial intelligence reveals environmental constraints on colour diversity in insects》of Nature journal. This project deeply analyzes the human behavior of blind obedience, and how it corresponds to the ecology of moths. Viewers can find which moth they belong to in the process of interacting with the interface and answering questions.
 
 * 網頁連結: https://ga642381.github.io/moth
-* Behance: https://www.behance.net/gallery/117560693/-Moth-Institute
+* Behance: https://www.behance.net/gallery/118436495/-Moth-Institute
 * 虫我研所-新一代設計展: https://www.yodex.com.tw/exhibit/93
 * Instagram: https://www.instagram.com/moth_institute/
 
